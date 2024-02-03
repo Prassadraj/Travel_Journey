@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Travel_Journey/static/css/main.54ac0e14.css",
+    "main.js": "/Travel_Journey/static/js/main.d9694915.js",
+    "static/media/italy.png": "/Travel_Journey/static/media/italy.69c82e0f530e072e2a07.png",
+    "static/media/japan.png": "/Travel_Journey/static/media/japan.f053f9bde3ba2f44eeea.png",
+    "static/media/paris.png": "/Travel_Journey/static/media/paris.fafd5c83b367ac0c9ecb.png",
+    "static/media/world.png": "/Travel_Journey/static/media/world.754853a1f687700e505e.png",
+    "index.html": "/Travel_Journey/index.html",
+    "main.54ac0e14.css.map": "/Travel_Journey/static/css/main.54ac0e14.css.map",
+    "main.d9694915.js.map": "/Travel_Journey/static/js/main.d9694915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ac0e14.css",
+    "static/js/main.d9694915.js"
+  ]
+}
